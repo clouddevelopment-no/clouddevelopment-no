@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "setup",
+			"problemMatcher": [
+				"$node-sass"
+			],
+			"label": "npm: setup",
+			"detail": "node ./bin/setup.js"
+		}
+	]
+}
